@@ -27,19 +27,25 @@
 ## 6. Voting on Quorum
 - Discussion and vote on quorum requirement (proposed 50% + 1 of total membership). Sergeant-at-Arms (Jesse Martinez) to track quorum.
 
-## 7. Reports
+## 7. Establishment of the Artificial Intelligence Committee
+### a. Introduction of the Committee
+- Discussion on the purpose and scope of the Artificial Intelligence Committee.
+### b. Election of Committee Head
+- Official vote for Noah Gibson to be the head of the Artificial Intelligence Committee.
+
+## 8. Reports
 - Reports from officers, committees, or members.
 
-## 8. Unfinished Business
+## 9. Unfinished Business
 - Address any unresolved items from previous meetings.
 
-## 9. New Business
+## 10. New Business
 - Introduction of new items for discussion or action.
 
-## 10. Announcements
+## 11. Announcements
 - Share relevant announcements with the group.
 
-## 11. Adjournment
+## 12. Adjournment
 - Motion to adjourn the meeting.
 
 **Note:** Voting procedures for virtual settings to be clarified during the meeting. Documentation of decisions and minutes to be handled by the Secretary (Jesie Martinez).
