@@ -31,7 +31,7 @@
 ## 7. Establishment of the Artificial Intelligence Committee
 ### a. Introduction of the Committee and vote
 - Discussion on the purpose and scope of the Artificial Intelligence Committee.
-- Vote on creations of Committe.
+- Vote on creations of Committee.
 ### b. Election of Committee Head
 - Official vote for Noah Gibson to be the head of the Artificial Intelligence Committee.
 
