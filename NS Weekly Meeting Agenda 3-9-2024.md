@@ -18,8 +18,9 @@
 - Introduction and official vote for Kim Gosseen to be Treasurer.
 
 ## 5. Establishment of the WAWF Committee
-### a. Introduction of the Committee
+### a. Introduction of the Committee and vote
 - Purpose and responsibilities of the WAWF Committee.
+- Vote on creation of Committee.
 ### b. Election of Committee Head and Second
 - Official vote for Kim Gosseen to head the WAWF Committee.
 - Official vote for Robert Martinez as the second in command.
@@ -28,8 +29,9 @@
 - Discussion and vote on quorum requirement (proposed 50% + 1 of total membership). Sergeant-at-Arms (Jesse Martinez) to track quorum.
 
 ## 7. Establishment of the Artificial Intelligence Committee
-### a. Introduction of the Committee
+### a. Introduction of the Committee and vote
 - Discussion on the purpose and scope of the Artificial Intelligence Committee.
+- Vote on creations of Committe.
 ### b. Election of Committee Head
 - Official vote for Noah Gibson to be the head of the Artificial Intelligence Committee.
 
