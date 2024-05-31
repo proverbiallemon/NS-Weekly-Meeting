@@ -7,7 +7,7 @@
 - Confirm attendance to ensure quorum.
 
 ## 3. Approval of Previous Meeting Minutes
-- Review and approve the minutes from the May 11, 2024 meeting.
+- Review and approve the minutes from the May 27th, 2024 meeting.
 
 ## 4. Officer Reports
 - Updates from the Secretary, Treasurer, Sergeant-at-Arms, etc.
