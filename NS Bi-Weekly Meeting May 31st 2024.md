@@ -28,6 +28,8 @@
 - Discuss the issues, updates, or policies regarding CAC Cards within the organization.
 ### b. Twinleaf Contract Signature Planning with JM
 - Outline the steps and preparation needed for signing the contract with Twinleaf, involving JM.
+### c. Jessica documentation for marie discussion.
+- Marie needs easier to digest documenenation.
 
 ## 8. Announcements
 - Share any relevant announcements.
