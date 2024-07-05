@@ -1,4 +1,4 @@
-# NS Software Services Meeting Agenda - June 14, 2024
+# NS Software Services Meeting Agenda - July 5, 2024
 
 ## 1. Call to Order
 - The Chair opens the meeting.
@@ -7,7 +7,7 @@
 - Confirm attendance to ensure quorum.
 
 ## 3. Approval of Previous Meeting Minutes
-- Review and approve the minutes from the May 31, 2024 meeting.
+- Review and approve the minutes from the June 14, 2024 meeting.
 
 ## 4. Officer Reports
 - The Secretary will go over the action items from the last meeting.
@@ -25,8 +25,7 @@
 - Discussion on unresolved items from the last meeting.
 
 ## 7. New Business
-### a. Twinleaf Contract Signature Planning with JM
-- Update from Kim on recent communication with Twinleaf.
+- Introduction of new matters for discussion.
 
 ## 8. Announcements
 - Share any relevant announcements.
@@ -35,7 +34,7 @@
 - Opportunity for members to bring up last-minute topics.
 
 ## 10. Set Next Meeting Date
-- Confirm the date and time for the next meeting. Considering the bi-weekly schedule, the next proposed meeting date is June 28, 2024.
+- Confirm the date and time for the next meeting. Considering the bi-weekly schedule, the next proposed meeting date is July 19, 2024.
 
 ## 11. Adjournment
 - Official closure of the meeting.
