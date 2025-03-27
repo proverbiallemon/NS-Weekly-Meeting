@@ -35,7 +35,7 @@
 - Opportunity for members to bring up last-minute topics.
 
 ## 10. Set Next Meeting Date
-- Confirm the date and time for the next meeting. Considering the bi-weekly schedule, the next proposed meeting date is March 18, 2025.
+- Confirm the date and time for the next meeting. Considering the bi-weekly schedule, the next proposed meeting date is April 10th, 2025.
 
 ## 11. Adjournment
 - Official closure of the meeting.
