@@ -6,6 +6,9 @@
 ## 2. Roll Call
 - Confirm attendance to ensure quorum.
 
+### a. Vote for skipping minutes due to secretary's illness.
+- The secretary has COVID and has requested the meeting review be postponed.
+
 ## 3. Approval of Previous Meeting Minutes
 - **Responsible:** Secretary and Chair to review and approve the minutes from the previous meeting.
 
