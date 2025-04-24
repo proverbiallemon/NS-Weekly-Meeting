@@ -1,5 +1,4 @@
 # NS Software Services Meeting Agenda - April 24, 2025
-## Makup Meeting for April 10th, 2025
 
 ## 1. Call to Order
 - The Chair will open the meeting.
